@@ -1,6 +1,6 @@
 # Analysis-of-Customer-Purchasing-Behaviour-using-K-Means-Clustering (Unsupervised machine learning)
 
-This study is designed primarily to enable organisations know the distinct kinds of customers they have. This will in turn help them to tailor customers' need based on the segment they fall into. However, the K-means clustering algorithm which was built from the scratch could be used for other segmentation purposes as it clusters group of people, observations, or objects with similar features.
+This study is designed primarily to enable organisations know the distinct kinds of customers they have. This will in turn help them to tailor customers' need based on the segment they fall into. 
 
 The algorithm was created with two different user interface systems. These interface systems are Tkinter and user input.
 
